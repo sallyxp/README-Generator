@@ -1,5 +1,5 @@
 {
-  "name": "horace",
+  "name": "generatereadme",
   "version": "1.0.0",
   "description": "![GitHub license](https://github.com/sallyxp/testingenvironment) ### expectant mother liking coke ## *Table of Contents* - [Description](#description) - [Installation](#installation) - [Usage](#usage) - [Contributing](#contributing) - [Authors](#authors) - [Screenshots](#screenshots) - [Video](#video) - [Tests](#tests) - [Contact Me](#contact-me) ## *Description*  deep meaningful big ## *Installation* plug in and go ## *Usage*  as required to create a readme ## *Contributing* washing up ## *Authors* sally ## *Screenshots* ![](https://github.com/sallyxp/testingenvironment) ## *Video* ## *Tests* rest ## *Contact Me* - Github: **[github.com/sallyxp](https://github.com/sallyxp) - LinkedIn: **[sally](link)  - Twitter: **[none](none)  - Email: **[sallyhello1@yahoo.com](mailto:sallyhello1@yahoo.com) This project is MIT licensed. &copy; 2020 sally",
   "main": "index.js",
@@ -10,6 +10,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "sally rodgers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "sallyxp.github.io"
+  },
+  "keywords": [
+    "index;",
+    "readme;",
+    "javascript"
+  ]
 }
