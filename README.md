@@ -1,14 +1,11 @@
 # README-Generator
-This repository stores the information to create a high-quality README.md from user's input and  the inquirer package by using
+This repository stores the information to create a high-quality README.md from user's input and  the inquirer package by using a command line application.
 
-a command line application.
+1. Link to Video Demonstration of application: https://drive.google.com/file/d/1QsIjSbkt6JsEpgjlgzsVx6r2ktKL35Tr/view?usp=sharing
+2. Link to second Video Recording: https://drive.google.com/file/d/1Uq97oWtba1yfdnRC_g0ivQlm8IZba6lZ/view
 
-To be added to credits
+This project is MIT licensed. ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet)
 
-Link to Video Demonstration of application: https://drive.google.com/file/d/1QsIjSbkt6JsEpgjlgzsVx6r2ktKL35Tr/view?usp=sharing
-Link to second Video Recording: https://drive.google.com/file/d/1Uq97oWtba1yfdnRC_g0ivQlm8IZba6lZ/view
-# GeneratingReadme 
-![GitHub license](![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet))(0)
 ### Creation of a README file by using a command line application.
 ## *Table of Contents*
 - [Description](#description)
@@ -54,7 +51,7 @@ For any questions, please feel free to contact me via my Github page.
 Sally Rodgers
 
 ## *Screenshot*
-![alt text] (images/screenshot.png) 
+![alt text](images/screenshot.png)
 
 ## *Video*
 Link to Video Demonstration of application: https://drive.google.com/file/d/1QsIjSbkt6JsEpgjlgzsVx6r2ktKL35Tr/view?usp=sharing
@@ -70,5 +67,7 @@ Please note - any generated output can be re-edited.
 - Github: **[sallyxp](sallyxp.github.io)
 - LinkedIn: **[Sally Rodgers](www.linkedin.com/in/sallyhello1)  
 - Email: **[sallyhello1@yahoo.com](mailto:sallyhello1@yahoo.com)
+
+
 This project is MIT licensed. ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet) 
 &copy; 2020 Sally Rodgers
